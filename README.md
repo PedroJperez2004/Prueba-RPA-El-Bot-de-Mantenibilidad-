@@ -53,7 +53,7 @@ npm start -- CC 1063821116
 > **Nota:** Los tipos de documentos soportados son los oficiales de ADRES (CC, TI, RC, CE, etc.).
 
 ## 📊 Salida de Datos
-El bot generará un archivo JSON en la carpeta `./data/` con el nombre `resultado_<documento>.json`.
+El bot generará un archivo JSON en la carpeta `./data/` con el nombre `resultado_<documento>.json`, el resultado tambien será visible en la consola.
 Ejemplo del contenido:
 ```json
 {
