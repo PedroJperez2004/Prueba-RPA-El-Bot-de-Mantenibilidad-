@@ -24,8 +24,8 @@ Evaluar la capacidad de crear un bot capaz de navegar por el portal de ADRES, re
 ## 📥 Instalación
 1.  **Clonar el repositorio:**
     ```bash
-    git clone https://github.com/tu-usuario/el-bot-de-mantenibilidad.git
-    cd el-bot-de-mantenibilidad
+    git clone git@github.com:PedroJperez2004/Prueba-RPA-El-Bot-de-Mantenibilidad-.git
+    Prueba-RPA-El-Bot-de-Mantenibilidad
     ```
 
 2.  **Instalar dependencias:**
